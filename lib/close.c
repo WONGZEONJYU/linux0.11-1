@@ -4,7 +4,11 @@
  *  (C) 1991  Linus Torvalds
  */
 #include <set_seg.h>
-
+/*
+ *  linux/lib/close.c
+ *
+ *  (C) 1991  Linus Torvalds
+ */
 #define __LIBRARY__
 // Linux 标准头文件。定义了各种符号常数和类型，并申明了各种函数。
 // 如定义了__LIBRARY__，则还包括系统调用号和内嵌汇编_syscall0()等。
